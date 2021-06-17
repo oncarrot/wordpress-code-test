@@ -1,36 +1,25 @@
 # WordPress Code Test
 
-## Requirements
+The Carrot Engineering team **appreciates you** and the time you are investing in our code challenge. For brevity, our project consists of a preconfigured WordPress development environment.  
 
-1. Install [Docker CE](https://docs.docker.com/v17.09/docker-for-mac/install/)
+After finishing one or more of the following tasks, please submit a pull request with your finished work.
 
 ## Getting Started
 
-```bash
-docker compose up
-open localhost:8000
-```
+1. Install [Docker CE](https://docs.docker.com/v17.09/docker-for-mac/install/)
+2. Run `docker compose up`
+3. Open [localhost:8000](localhost:8000)
+4. The admin username is `carrot` and password `password`
 
-**Admin Credentials**
+## Tasks
 
-- **Email:** dev@carrot.com
-- **Username:** carrot
-- **Password:** password
+### Task #1 Design
 
-## Challenge
+Real Estate agents love our fresh look on web design.  @Joseph how can we prove their html/css skills in under two hours?
+### Task #2 Plugin Development
 
-There is a critical WordPress bug that you need to fix before moving on.  Then you can select one of the following tasks to complete.
-### Bug - Fix the Env ( Required )
-
-There is a broken X Y and Z.  You need to fix this before moving on.
-
-### Task - Design (optional)
-
-Do Z
-### Task - PHP (optional)
-
-Make a plugin that adds a x to each blog post.
-### Task - Gutenberg (optional)
+ Make a plugin that adds a x to each blog post. @Joseph can you make this better?
+### Task #3 Gutenberg Development
 
 Use your creativity to create a custom block that real estate agents would love.
 
