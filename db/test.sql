@@ -16,4 +16,3 @@ select "HELLO";
 select "HELLO";
 select "HELLO";
 select "HELLO";
-SELECT * FROM wp_users;
