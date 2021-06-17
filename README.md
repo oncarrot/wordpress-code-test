@@ -29,10 +29,10 @@ There is a broken X Y and Z.  You need to fix this before moving on.
 Do Z
 ### Task - PHP (optional)
 
-Do Y
+Make a plugin that adds a x to each blog post.
 ### Task - Gutenberg (optional)
 
-Do x
+Use your creativity to create a custom block that real estate agents would love.
 
 ## License
 
