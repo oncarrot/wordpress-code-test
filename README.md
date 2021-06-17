@@ -16,3 +16,7 @@ open localhost:8000
 - **Email:** dev@carrot.com
 - **Username:** carrot
 - **Password:** password
+
+## License
+
+Copyright © Carrot Inc., 2021
