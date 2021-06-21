@@ -28,7 +28,7 @@ Please keep your work under 2 hours.
 
 ### Task #2 Plugin Development
 
-Make a wordpress plugin the connects to (X) api. Pull the api data into wordpress and make 10 blog posts.
+Make a wordpress plugin that pull data from X (possibly https://jsonplaceholder.typicode.com/posts) api. Pull the api data into wordpress and make 10 blog posts.
 Please keep your work under 2 hours.
 
 ### Task #3 Gutenberg Development
