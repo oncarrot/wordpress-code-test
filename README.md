@@ -24,23 +24,21 @@ We have designed three tasks to test your knowledge of HTML/CSS, PHP, and Gutenb
 
 ### Task #1 Design
 
-❤️ Real Estate agents love our fresh look on web design.
+Real Estate agents love ❤️ our fresh look on web design.
 Work within the twentytwentyone theme to design a Real Estate landing page.
 Since this is a landing page feel free to exclude the header and footer.
 We will not be grading on the header or footer section since it takes time to properly style those sections.
-Please keep your work under 2 hours.
-
 ### Task #2 Plugin Development
 
-Make a wordpress plugin that pull data from X (possibly https://jsonplaceholder.typicode.com/posts) api. Pull the api data into wordpress and make 10 blog posts.
-Please keep your work under 2 hours.
+Develop a WordPress plugin that displays the [top ten trending audio tracks](https://audiusproject.github.io/api-docs/#trending-tracks) from [audius.co](https://audius.co).
+
+
 
 ### Task #3 Gutenberg Development
 
 Use your creativity to create a custom block that real estate agents would love.
 Use npm to create a custom Gutenberg block. This can be a plugin or built directly on the theme (dealers choice).
 We are looking for knowledge of npm, the ablity to create a custom Gutenberg block, and creativity.
-Please keep your work under 3 hours.
 
 When you are completed with either challenge please export your database and include it in the db folder.
 quick cli commnd to export a mysql database.
