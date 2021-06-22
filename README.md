@@ -6,21 +6,25 @@ After finishing one or more of the following tasks, please submit a pull request
 
 ## Getting Started
 
+Your first task is to get the development environment running and debug a WordPress issue that is preventing the theme from being loaded.
+
 1. Install [Docker CE](https://docs.docker.com/v17.09/docker-for-mac/install/)
 2. Run `docker compose up`
-3. Open [localhost:8000](localhost:8000)
-4. The admin username is `carrot` and password `password`
 
-Before you get started you may notice that the theme is not functioning properly. Please debug the issue and get the theme to enqueue properly before starting the next task.
-Please keep this section of the test under 30 minutes.
-Ensure that you are using git properly, we will be grading your commits and commit messages.
-Choose one of the following tasks below.
+To verify WordPress is running correctly, ensure you have a 200 response code with a `Content-Length` header showing zero bytes.
+
+<img src="docs/getting-started.gif" width="500" />
 
 ## Tasks
 
+
+💪 Congragulations for flexing your debugging skills and resolving the theme loading issue.  You can now login with the username of `carrot` and password `password`.
+
+We have designed three tasks to test your knowledge of HTML/CSS, PHP, and Gutenberg.  Please select one or more tasks that best represent your skills. 
+
 ### Task #1 Design
 
-Real Estate agents love our fresh look on web design.
+❤️ Real Estate agents love our fresh look on web design.
 Work within the twentytwentyone theme to design a Real Estate landing page.
 Since this is a landing page feel free to exclude the header and footer.
 We will not be grading on the header or footer section since it takes time to properly style those sections.
