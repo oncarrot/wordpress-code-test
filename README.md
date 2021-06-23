@@ -15,10 +15,10 @@ To verify WordPress is running correctly, ensure you have a 200 response code wi
 
 <img src="docs/getting-started.gif" width="500" />
 
-When completed, you will need to export the database and commit the SQL file. This command will dump the DB and overwrite the `test_dump.sql` file.
+When completed, you will need to export the database and commit the SQL file. This command will dump the DB within the ./db folder.
 
 ```bash
-docker exec wordpress-code-test_db_1 /usr/bin/mysqldump -u wordpress --password=wordpress --no-tablespaces wordpress > ./db/test_dump.sql
+docker exec wordpress-code-test_db_1 /usr/bin/mysqldump -u wordpress --password=wordpress --no-tablespaces wordpress > ./db/wordpress_test_dump.sql
 
 ## Tasks
 
