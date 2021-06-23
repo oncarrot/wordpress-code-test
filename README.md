@@ -15,13 +15,17 @@ To verify WordPress is running correctly, ensure you have a 200 response code wi
 
 <img src="docs/getting-started.gif" width="500" />
 
+When completed, you will need to export the database and commit the SQL file. This command will dump the DB and overwrite the `test_dump.sql` file.
+
+```bash
+docker exec wordpress-code-test_db_1 /usr/bin/mysqldump -u wordpress --password=wordpress --no-tablespaces wordpress > ./db/test_dump.sql
 
 ## Tasks
 
 
 💪 Congragulations for flexing your debugging skills and resolving the theme loading issue.  You can now login with the username of `carrot` and password `password`.
 
-We have designed three tasks to test your knowledge of HTML/CSS, PHP, and Gutenberg.  Please select one or more tasks that best represent your skills. 
+We have designed three tasks to test your knowledge of HTML/CSS, PHP, and Gutenberg.  Please select one or more tasks that best represent your skills.
 
 ### Task #1 Design
 
@@ -44,10 +48,6 @@ Use your creativity to create a custom block that real estate agents would love.
 
 Create a custom Gutenberg block as a plugin or built it directly into the theme, your choice.
 
-When completed, you will need to export the database and commit the SQL file.  This command will dump the DB and overwrite the `test_dump.sql` file.
-
-```bash
-docker exec wordpress-code-test_db_1 /usr/bin/mysqldump -u wordpress --password=wordpress --no-tablespaces wordpress > ./db/test_dump.sql
 ```
 
 ## License
