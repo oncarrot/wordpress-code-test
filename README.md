@@ -30,7 +30,7 @@ We have designed three tasks to test your knowledge of HTML/CSS, PHP, and Gutenb
 ### Task #1 Design
 
 Real Estate agents love ❤️ our fresh look on web design.
-Work within the `twentytwentyone` theme to design a Real Estate landing page.
+Work within the `carrot-test` theme to design a Real Estate landing page.
 
 Since this is a "landing page," feel free to exclude the header and footer. We will evaluate your work on the quality of your code, how it functions in the browser, and its visual aesthetics.
 
