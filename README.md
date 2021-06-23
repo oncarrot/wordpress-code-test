@@ -10,6 +10,7 @@ Your first task is to get the development environment running and **debug an iss
 
 1. Install [Docker CE](https://docs.docker.com/v17.09/docker-for-mac/install/)
 2. Run `docker compose up`
+3. Visit http://localhost:8000/
 
 To verify WordPress is running correctly, ensure you have a 200 response code with a `Content-Length` header showing zero bytes.
 
@@ -23,7 +24,9 @@ docker exec wordpress-code-test_db_1 /usr/bin/mysqldump -u wordpress --password=
 
 ## Tasks
 
-💪 Congragulations for flexing your debugging skills and resolving the theme loading issue. You can now login with the username of `carrot` and password `password`.
+💪 Congratulations for flexing your debugging skills and resolving the theme loading issue. 
+
+You can now login with the username of `carrot` and password `password`.
 
 We have designed three tasks to test your knowledge of HTML/CSS, PHP, and Gutenberg. Please select one or more tasks that best represent your skills.
 
