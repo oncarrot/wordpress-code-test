@@ -34,7 +34,8 @@ Work within the `carrot-test` theme to design a Real Estate landing page.
 
 Since this is a "landing page," feel free to exclude the header and footer. We will evaluate your work on the quality of your code, how it functions in the browser, and its visual aesthetics.
 
-If you need inspiration, you can browse [dribbble.com](https://dribbble.com/search/real%20estate) for real estate designs.
+If you need inspiration, you can browse [dribbble.com](https://dribbble.com/search/real%20estate), [hubspot.com](https://blog.hubspot.com/marketing/landing-page-examples-list) for real estate designs.
+For stock images you can use refernce [this link](https://github.com/neutraltone/awesome-stock-resources).
 
 ### Task #2 Plugin Development
 
