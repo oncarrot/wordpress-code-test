@@ -4,6 +4,8 @@ The Carrot Engineering team **appreciates you** and the time you are investing i
 
 After finishing one or more of the following tasks, please submit a pull request with your finished work.
 
+Please limit your time to less than two hours.
+
 ## Getting Started
 
 Your first task is to get the development environment running and **debug an issue** that is preventing the theme from being loaded.
